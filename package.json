@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "js-beautify": "*",
-    "mkdirp": "^0.5.1",
+    "mkdirp": "^0.5.5",
     "vue": "^2.6.3"
   }
 }
